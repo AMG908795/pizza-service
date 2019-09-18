@@ -1,0 +1,23 @@
+{
+  "name": "pizza-service",
+  "version": "1.0.0",
+  "description": "Pizza Micro Service",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMG908795/pizza-service.git"
+  },
+  "author": "Adam G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMG908795/pizza-service/issues"
+  },
+  "homepage": "https://github.com/AMG908795/pizza-service#readme"
+}
